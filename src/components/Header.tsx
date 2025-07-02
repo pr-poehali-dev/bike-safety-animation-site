@@ -15,13 +15,13 @@ const Header = () => {
 
           <nav className="hidden md:flex items-center space-x-6">
             <a
-              href="#"
+              href="/"
               className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
             >
               Главная
             </a>
             <a
-              href="#"
+              href="/movies"
               className="text-gray-700 hover:text-blue-600 transition-colors font-medium"
             >
               Смотреть
